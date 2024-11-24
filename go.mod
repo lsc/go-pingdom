@@ -1,4 +1,4 @@
-module github.com/DrFaust92/go-pingdom
+module github.com/lsc/go-pingdom
 
 go 1.19
 
